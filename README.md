@@ -1,7 +1,7 @@
 ### Hi there i'm Hyeon Nam👋
 
 ![hyeonnam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhn1030&show_icons=true&theme=tokyonight)
-![hyeonnam's github stats](https://github-readme-stats.vercel.app/api?username=nhn1030&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhn1030&layout=compact&theme=tokyonight)
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align="center">
