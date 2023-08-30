@@ -2,9 +2,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhn1030&show_icons=true&theme=radical)
 
-<div align="center">
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-	<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+<div align=center><h1>📚 STACKS</h1>
+	<div align="center">
+		<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+		<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+	</div>
 </div>
 
 <!--
