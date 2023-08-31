@@ -13,6 +13,8 @@
 #	 
 </div>
 
+<div align=center><h1>📚 Stats </h1></div>
+
 ![Hyeon Nam's github stats](https://github-readme-stats.vercel.app/api?username=nhn1030&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhn1030&layout=compact&theme=tokyonight)
 
