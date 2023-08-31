@@ -7,11 +7,17 @@
 	<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
- 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>	
+ 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+
+	
+#	 
 </div>
 
 ![Hyeon Nam's github stats](https://github-readme-stats.vercel.app/api?username=nhn1030&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhn1030&layout=compact&theme=tokyonight)
+
+
+
 
 
 
