@@ -4,7 +4,7 @@
 <div align=center><h1>📚 STACKS</h1></div>
 <div align="center">
 	<img src="https://img.shields.io/badge/python-00599C?style=flat-square&logo=python&logoColor=yellow"/>
-	<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=fastapi&logoColor=white"/>
+	<img src="https://img.shields.io/badge/FastApi-007396?style=flat-square&logo=fastapi&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
  	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
